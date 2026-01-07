@@ -1,0 +1,7 @@
+{
+  "name": "SmartCloset AI",
+  "description": "A personal AI-powered fashion assistant to manage your wardrobe and generate stylish outfit combinations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
